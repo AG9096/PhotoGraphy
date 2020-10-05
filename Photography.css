@@ -1,0 +1,101 @@
+
+		.navbar{
+			background-color: rgb(204, 222, 226);
+			font-size: 17px;
+			font-weight: 100%;
+		}
+        .navbar-right{
+            position: relative;
+        }
+		.jumbotron{
+			text-align: center;
+			padding-left: 30px;
+			background-color: rgb(255, 255, 229);
+		}
+		p{
+			text-align: center;
+		}
+       h1{
+			
+			text-align: center;
+			font-size: 100px;
+			padding-top: 25px;
+			padding-bottom: 30px;
+			font-family: 'Caveat', cursive;
+            color: rgb(114, 176, 226);
+            font-size: 70px;
+		}
+		h3{
+			font-family: 'Comfortaa', cursive;
+            font-family: 'Lobster', cursive;
+            font-family: 'Roboto', sans-serif;
+			margin-left: 30px;
+			padding-bottom: 15px;
+		}
+		.container .foot{
+			padding-bottom: 150px;
+		}
+		img{
+			border:2px solid rgb(255, 204, 153);
+			width: 100%;
+			padding: auto;
+		}
+		#primaryBtn{
+			font-size: 40px;
+			text-align: center;
+		}
+		#birds{
+           
+            padding-top: none;
+            padding-bottom: 70px;
+            
+        }
+      
+		
+        #random{
+        	
+        	margin-top: 10px;
+        	margin-bottom: 30px; 
+		}
+		
+		.footer{
+			padding: 100px 20px 15px;
+			background-image: linear-gradient(#fc75d8, #9610fd);
+			color: #fff;
+		}
+   
+		.footer-logo{
+			width: 150px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+		}
+   
+		.footer h4{
+			text-align: left;
+			margin-top: 15px;
+			margin-bottom: 25px;
+		}
+   
+		.footer p{
+			font-size: 12px;
+			text-align: justify;
+			padding-right: 35px;
+		}
+   
+		.footer .row .fa{
+			padding-right: 20px;
+			font-size: 15px;
+		}
+		
+		.footer hr{
+			margin-top: 10px;
+			background: #efefef;
+		}
+   
+	   .footer .copyright{
+			 text-align: center;
+		 }
+   
+		   
+		
+  
